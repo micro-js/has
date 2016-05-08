@@ -2,7 +2,7 @@
   "name": "@f/has",
   "description": "Safe, functional hasOwnProperty",
   "repository": "git://github.com/micro-js/has.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
